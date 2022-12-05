@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/logeshz/static/css/main.fb532045.css",
+    "main.js": "/logeshz/static/js/main.15d96325.js",
+    "static/js/787.39bb0775.chunk.js": "/logeshz/static/js/787.39bb0775.chunk.js",
+    "index.html": "/logeshz/index.html",
+    "main.fb532045.css.map": "/logeshz/static/css/main.fb532045.css.map",
+    "main.15d96325.js.map": "/logeshz/static/js/main.15d96325.js.map",
+    "787.39bb0775.chunk.js.map": "/logeshz/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb532045.css",
+    "static/js/main.15d96325.js"
+  ]
+}
